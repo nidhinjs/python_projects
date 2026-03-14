@@ -34,8 +34,6 @@ FOLDER_MAP = {
     '.md':   '📄 My Docs',
     '.epub': '📄 My Docs',
     '.pages':'📄 My Docs',
-    '.numbers': '📄 My Docs',
-    '.keynote': '📄 My Docs',
 
     # 🎬 Videos
     '.mp4':  '🎬 Vids',
@@ -46,9 +44,7 @@ FOLDER_MAP = {
     '.flv':  '🎬 Vids',
     '.webm': '🎬 Vids',
     '.m4v':  '🎬 Vids',
-    '.3gp':  '🎬 Vids',
     '.ts':   '🎬 Vids',
-    '.vob':  '🎬 Vids',
 
     # 🎵 Audio
     '.mp3':  '🎵 Sounds',
@@ -115,7 +111,6 @@ FOLDER_MAP = {
     '.cs':   '💻 Code',
     '.swift':'💻 Code',
     '.kt':   '💻 Code',
-    '.lua':  '💻 Code',
     '.r':    '💻 Code',
 
     # 🖋️ Fonts
@@ -171,4 +166,4 @@ def organize():
 
 print("\nOrganizing Downloads Folder\n")
 organize()
-print("\nDone :)")
+print("\nOrganizing Done")
